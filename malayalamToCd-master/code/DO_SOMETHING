@@ -1,0 +1,37 @@
+annoy person nil result = var2 anger -3
+cajole person nil result = var2 mental_state 2
+care person nil result = var2 physical_state 0
+care object nil result = var2 physical_state 0
+damage object nil result = var2 physical_state -5
+damage abstract nil result = var2 mental_state -5
+deter person nil result = var2 NOT var4
+refuse person nil result = var2 NOT var4
+reject person nil result = var2 NOT var4
+die person nil result = var1 health -10
+do
+embarrass person nil result = var2 mental_state -1
+entertain person nil result = var2 mental_state 5
+grow objects nil result = var2 size 1
+harm person nil result = var2 physical_state -5
+hinder person nil result = var2 NOT var4
+hurt person abstract result = var2 mental_state -6
+hurt person nil result = var2 physical_state -6
+improve object nil result = var2 quality 1
+increase object nil result = var2 size 1
+inflate object nil result = var2 size 1
+kill person nil result = var2 health -10
+mend object nil result = var2 quality 1
+multiply object nil result = var2 size 1
+murder person nil result = var2 health -10
+offend person nil result = var2 mental_state -2
+please person nil result = var2 mental_state 5
+prevent person nil result = var2 NOT var4
+protect person nil result = var2 physical_state 0
+protect object nil result = var2 physical_state 0
+reduce object nil result = var2 size -1
+shock person nil result = var2 mental_state -8
+stop person nil result = var2 NOT var4
+suffered person nil result = var1 mental_state -2
+upset person nil result = var2 mental_state -2
+surprise person nil result var2 mental_state 2
+sympathize person nil result = var2 anger 0

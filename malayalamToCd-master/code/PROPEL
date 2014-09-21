@@ -1,0 +1,9 @@
+﻿attack result = var2 physical_state -7:ആക്രമിക്കുക 
+bruise result = var2 physical_state -7:ചതയ്ക്കുക 
+fight result = var2 physical_state -7 result = var1 physical_state -7:അടികൂടുക 
+hit result = var2 physical_state -7:ഇടിക്കുക 
+pelt result = var2 physical_state -7:കല്ലെറിയുക 
+shoot:വെടിവെക്കുക 
+slap:മുഖത്തടിക്കുക 
+beat:അടിച്ചു
+wave:വീശി

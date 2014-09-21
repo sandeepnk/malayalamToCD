@@ -1,0 +1,4 @@
+This folder includes all the files of this project.Please import this to some workspace in eclipse.You have to install malayalam fonts & indic-malayalam font package in Linux(For windows also you have to install malayalam fonts.) to give input in malayalam.JAVA 1.7 needed.
+Run main.java in eclipse and input the malayalam sentences.
+change isCDFormMalayalam = true inside AllDomain.java to print CD-FORM in malayalam.
+You can give multiple sentences also.Please don't give space after full stop(.) of previous sentence.

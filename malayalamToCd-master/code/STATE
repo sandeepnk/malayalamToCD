@@ -1,0 +1,9 @@
+believe, (LOC(M)(VAR1,VAR2)):വിശ്വസിക്കുക
+deny, (NOT LOC(M)(VAR1,VAR2)):നിഷേധിക്കുക
+forget, (NOT LOC(M)(VAR1,VAR2)):മറന്നുപോകുക
+have,  (POSS(var1,var2)):ഉണ്ട്
+know, (LOC(M)(VAR1,VAR2)):അറിയുക
+mourn, (STATE(VAR1, mental_state -2)):കരയുക
+own, (POSS(var1,var2)):സ്വന്തം
+posses, (POSS(var1,var2)):കൈവശംവെക്കുക
+upset, (STATE(VAR1, anger -2)):അസ്വസ്ഥനാവുക

@@ -1,0 +1,23 @@
+submitted-സമര്‍പ്പിച്ചു
+accept-സ്വീകരിക്കുക 
+bestow result = var2 mental_state 2-സമ്മാനിക്കുക  
+want result = var2 mental_state 2 future-ആവശ്യം
+demand result = var2 mental_state 2 future-ആവശ്യകത  
+desire result = var2 mental_state 2 future-മോഹം 
+need result = var2 mental_state 2 future-വേണ്ടിവരിക  
+dole result = var2 mental_state 2-ദാനം 
+earn-നേടുക  
+get-കിട്ടുക  
+gather-കൈക്കലാക്കുക  
+give-കൊടുക്കുക  
+keep-നിലനിര്‍ത്തുക   
+lose-തോല്‍വി  
+obtain-ലഭിക്കുക  
+pay-വിലകൊടുക്കുക  
+present result = var2 mental_state 5-അവതരിപ്പിക്കുക  
+provide-നല്‍കുക 
+receive-സ്വീകരിക്കുക  
+rob result = var2 mental_state 5-കൊള്ളയടിക്കുക  
+sell-വില്‍ക്കുക 
+spend-ചിലവാക്കുക  
+take-എടുക്കുക 

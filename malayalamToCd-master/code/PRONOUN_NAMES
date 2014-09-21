@@ -1,0 +1,165 @@
+any-ഏതും 
+((OBJECT) + (PERSON))
+NO
+anybody-ആരെങ്കിലും   
+(PERSON)
+NO
+anyone-ആരായാലും 
+(PERSON)
+NO
+anything-ഏതെങ്കിലും 
+(OBJECT)
+NO
+both-രണ്ടും 
+((OBJECT)(OBJECT) + (PERSON)(PERSON))
+YES
+either-ഏതെങ്കിലുംഒന്ന്‍    
+((OBJECT) + (PERSON))
+YES
+neither-രണ്ടുംഅല്ല    
+((OBJECT) + (PERSON))
+YES
+all-എല്ലാം 
+((OBJECT) + (PERSON))
+NO
+one -ഒന്ന് 
+((OBJECT) + (PERSON))
+NO
+he-അവന്‍   
+(PERSON)
+YES
+her-അവള്‍   
+(POSSBY(PERSON))
+YES
+hers-അവളുടെ   
+(POSSBY(PERSON))
+YES
+herself-അവളാല്‍   
+(PERSON))
+YES
+him-അവന്‍   
+(PERSON))
+YES
+himself-അവനാല്‍  
+(PERSON))
+YES
+his-അവന്‍റെ   
+(POSSBY(PERSON))
+YES
+it-അത്   
+(OBJECT)
+YES
+its-അതിന്‍റെ   
+(POSSBY(OBJECT))
+YES
+itself-ഇതുകൊണ്ട്  
+(OBJECT)
+YES
+little-ഇത്തിരി    
+(QUANTITY OBJECT 5)
+YES
+few-കുറച്ച്   
+(QUANTITY OBJECT 0)
+YES
+many-ഒരുപാട്   
+(QUANTITY OBJECT 5)
+YES
+me-ഞാന്‍   
+(PERSON)
+YES
+mine-എന്‍റെത്  
+(POSSBY(PERSON))
+YES
+my - എന്‍റെ   
+(POSSBY(PERSON))
+YES
+myself-ഞാനാല്‍   
+(PERSON)
+YES
+our-ഞങ്ങളുടെ 
+(POSSBY(((PERSON)(","(PERSON))* ("AND" (PERSON)))))
+YES
+ours-ഞങ്ങളുടേത്   
+((PERSON)(","(PERSON))* ("AND" (PERSON)))
+YES
+ourselves-ഞങ്ങളാല്‍   
+((PERSON)(","(PERSON))* ("AND" (PERSON)))
+YES
+several-ഒരുപാട് 
+(((PERSON)(","(PERSON))* ("AND" (PERSON))!) + ((OBJECT)(","(OBJECT))* ("AND" (OBJECT))!))
+NO)
+she-അവള്‍   
+(PERSON)
+YES
+some-കുറച്ച്   
+(((PERSON)(","(PERSON))* ("AND" (PERSON))!) + ((OBJECT)(","(OBJECT))* ("AND" (OBJECT))!))
+NO
+somebody-ആരെങ്കിലും 
+(PERSON)
+NO
+someone-ആരെങ്കിലും     
+(PERSON)
+NO
+something-ഏതെങ്കിലും  
+(OBJECT)
+NO
+that-അത്
+((OBJECT) + (PERSON) )
+NO
+their-അവരുടെ   
+(POSSBY(((PERSON)(","(PERSON))* ("AND" (PERSON))) + ((OBJECT)(","(OBJECT))* ("AND" (OBJECT)))))
+YES
+theirs-അവരുടെ  
+(POSSBY(((PERSON)(","(PERSON))* ("AND" (PERSON))) + ((OBJECT)(","(OBJECT))* ("AND" (OBJECT)))))
+YES
+them-അവരാല്‍   
+((PERSON)(","(PERSON))* ("AND" (PERSON)))
+YES
+themselves-അവരാല്‍     
+((PERSON)(","(PERSON))* ("AND" (PERSON)))
+YES
+these-ഇത്   
+(((PERSON)(","(PERSON))* ("AND" (PERSON))!) + ((OBJECT)(","(OBJECT))* ("AND" (OBJECT))!))
+YES
+they-അവര്‍   
+((PERSON)(","(PERSON))* ("AND" (PERSON)))
+YES
+this-ഇത്   
+((OBJECT) + (PERSON))
+NO
+those-അതെല്ലാം   
+(((PERSON)(","(PERSON))* ("AND" (PERSON))!) + ((OBJECT)(","(OBJECT))* ("AND" (OBJECT))!))
+YES
+we  -ഞങ്ങള്‍ 
+((PERSON)(","(PERSON))* ("AND" (PERSON)))
+YES
+what -എന്ത് 
+(OBJECT)
+INTERROGATIVE)))
+which  -ഏത് 
+((OBJECT) + (PERSON))
+INTERROGATIVE)))
+who-ആര്   
+(PERSON)
+INTERROGATIVE)))
+whom -ആര്  
+(PERSON)
+INTERROGATIVE)))
+whose-ആരുടെ   
+(POSSBY((PERSON) + (OBJECT)))
+INTERROGATIVE)))
+you -നീ  
+((PERSON)(","(PERSON))* ("AND" (PERSON)))
+YES
+your  -നിന്‍റെ 
+(POSSBY((PERSON)(","(PERSON))* ("AND" (PERSON))))
+YES
+yours-നിന്‍റെ   
+(POSSBY((PERSON)(","(PERSON))* ("AND" (PERSON))))
+YES
+yourself -നിന്‍റെ  
+((PERSON)(","(PERSON))* ("AND" (PERSON)))
+YES
+yourselves -നിന്‍റെ 
+((PERSON)(","(PERSON))* ("AND" (PERSON)))
+YES

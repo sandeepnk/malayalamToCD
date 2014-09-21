@@ -1,0 +1,39 @@
+announce:പ്രഖ്യാപിക്കുക
+ask(INTERROGATIVE):അന്വേഷിക്കുക
+question (INTERROGATIVE):ചോദ്യം ചെയ്യുക
+quiz (INTERROGATIVE):ചോദ്യാവലി
+plead (INTERROGATIVE):അപേക്ഷിക്കുക
+brag result = var1 mental_state 5:പൊങ്ങച്ചംപറയുക  
+broadcast:സംപ്രേക്ഷണംചെയ്യുക
+command:ആജ്ഞാപിക്കുക 
+comment:പ്രശംസിക്കുക 
+criticise result = var2 mental_state -3:വിമര്‍ശിക്കുക 
+curse result = var2 mental_state -3:ശാപം 
+describe:വിവരിക്കുക 
+dictate:അനുശാസന 
+divulge:പരസ്യമാക്കുക
+foretell:മുന്‍കൂട്ടിപറയുക 
+hail:ആഹ്വാനം
+instruct:നിര്‍ദ്ദേശിക്കുക 
+mention:ചൂണ്ടിക്കാണിക്കുക 
+order:ഉത്തരവ്
+pledge:പ്രതിജ്ഞ 
+pray:പ്രാര്‍ത്ഥന
+preach:പ്രചരണംനടത്തുക
+proclaim:പുറപ്പെടുവിക്കുക 
+profess:ഊന്നിപ്പറയുക 
+promise:വാഗ്ദാനം
+propose:അവതരിപ്പിക്കുക 
+quote:ഉദ്ടരിക്കുക 
+request:അപേക്ഷിക്കുക 
+report:വിവരംഅറിയിക്കുക   
+reply:മറുപടി 
+reveal:തുറന്നുകാണിക്കുക 
+say:പറയുക 
+state:പ്രസ്താവിക്കുക 
+talk:സംസാരിക്കുക 
+taunt result = var2 mental_state -3:അവഹേളിക്കുക 
+tell:പറയുക 
+threatened result = var2 mental_state -4:ഭീഷണിപ്പെടുത്തുക 
+election:ഇലക്ഷന്‍
+speech:പ്രസംഗിച്ചു

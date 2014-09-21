@@ -1,0 +1,36 @@
+advise:ഉപദേശം 
+suggest:നിര്‍ദ്ദേശിക്കുക 
+accept:സ്വീകരിക്കുക 
+attack result = var2 mental_state -3 :ആക്രമിക്കുക 
+hit result = var2 mental_state -3:അടിക്കുക 
+bestow result = var2 mental_state 2 :സമ്മാനിക്കുക 
+communicate:ബന്ധപ്പെടുക 
+confess:പശ്ചാത്തപിക്കുക 
+confide:വിശ്വാസിക്കുക 
+deliver:പ്രസംഗിക്കുക 
+dislike result = var1:വെറുക്കുക 
+anger -3:ദേഷ്യം 
+drop:താഴെ ഇടുക
+envy result = var1 mental_state -4:അസൂയ 
+explain:വിവരിക്കുക 
+fear -5:പേടി 
+fill:പൂരിപ്പിക്കുക 
+hate result = var1:വെറുക്കുക 
+anger -3:ദേഷ്യം 
+inform:അറിയിച്ചു
+like result = var1 mental_state 2:ഇഷ്ടം 
+present:അവതരിപ്പിച്ചു
+show:കാണിക്കുക
+realise:സാക്ഷാത്കരിക്കുക 
+read:വായിക്കുക 
+recall:ഓര്‍ക്കുക 
+receive:സ്വീകരിക്കുക 
+recite:ചൊല്ലുക 
+recognize:തിരിച്ചറിയുക 
+remember:ഓര്‍ക്കുക 
+send:അയയ്ക്കുക
+take:എടുക്കുക 
+teach:പഠിപ്പിക്കുക 
+think:ചിന്തിക്കുക 
+understand:മനസ്സിലാക്കുക 
+revenge:വെല്ലുവിളിച്ചു
